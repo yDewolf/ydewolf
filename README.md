@@ -1,4 +1,4 @@
-<img src="assets/profile-banner.gif">
+<img src="assets/profile-banner1.gif">
 
 <!-- <div align="center">
   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="Github"></a>
