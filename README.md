@@ -1,3 +1,11 @@
+<img src="assets/profile-banner.gif">
+
+<!-- <div align="center">
+  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="Github"></a>
+  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Github"></a>
+  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"></a>
+</div> -->
+
 <h2 align="center">Sobre mim</h2>
 <ul>
   <li>
