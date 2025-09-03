@@ -10,6 +10,7 @@
 <div align="center">
 
 ![Most used languages](https://github-readme-stats-ydewolfs-projects.vercel.app/api/top-langs/?username=ydewolf&theme=radical&show_icons=true&hide_border=true&langs_count=7&layout=donut&hide=cmake,c%2B%2B)
+![](https://github-contributor-stats.vercel.app/api?username=yDewolf&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
 ![Github Stats](https://github-readme-stats-ydewolfs-projects.vercel.app/api/?username=yDewolf&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![Github global stats](https://github-readme-streak-stats.herokuapp.com?user=yDewolf&theme=radical&hide_border=true&mode=weekly)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yDewolf&theme=radical&utcOffset=-3)
