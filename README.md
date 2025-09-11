@@ -23,5 +23,10 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yDewolf&theme=github-compact&hide_border=true)
 
+</div>
 
+<div align="right">
+
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C21KY1YN)
+  
 </div>
