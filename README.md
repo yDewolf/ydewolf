@@ -1,3 +1,8 @@
+<div align="right">
+
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C21KY1YN)
+  
+</div>
 <img src="assets/profile-banner1.gif">
 
 <!-- <div align="center">
@@ -25,8 +30,9 @@
 
 </div>
 
-<div align="right">
+<div align="center">
 
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C21KY1YN)
-  
+## Visitas:
+![View Counter](https://count.getloli.com/@yDewolfGithub?name=yDewolfCounter&theme=normal-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 </div>
