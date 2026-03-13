@@ -17,7 +17,7 @@
     📜 Me chamo André
   </li>
   <li>
-    🌱 Estou cursando o 2º ano do Ensino Médio integrado com Técnico em Desenvolvimento de Sistemas
+    🌱 Estou cursando o 3º ano do Ensino Médio integrado com Técnico em Desenvolvimento de Sistemas
   </li>
 </ul>
 <h2 align="center">Minhas Estatísticas do Github</h2>
